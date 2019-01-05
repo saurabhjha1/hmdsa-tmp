@@ -8,7 +8,7 @@ HMDSA
 Menu of links for the following:
 * [Architecture](arch/index.md)
 * [Tools](tools/index.md)
-* [Analysis](analysis/analysis.md)
+* [Analysis](analysis/index.md)
 * [Documents](docs/index.md)
 
 ## Team ##
