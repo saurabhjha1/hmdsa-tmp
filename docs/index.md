@@ -10,4 +10,5 @@ Menu of links for the following:
 * Tools
 * Analysis
 * Documents
-* Collaborators
+
+## Team ##
