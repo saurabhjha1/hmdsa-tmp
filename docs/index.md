@@ -1,5 +1,5 @@
-Holistic Measurement-Driven System Assessment (HMDSA)
-=====================================================
+HMDSA
+=====
 
 A test page for HMDSA
 
