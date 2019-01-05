@@ -1,9 +1,9 @@
 HMDSA
 =====
 
-About
+# About #
 
-Examples
+# Examples #
 
 Menu of links for the following:
 * Architecture
